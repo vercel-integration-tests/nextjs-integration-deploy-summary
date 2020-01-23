@@ -21,10 +21,13 @@ const Home = () => {
       <Nav />
 
       <div className="hero">
-        <h1 className="title">Welcome to Next Integration Test (Deployment Summary)!</h1>
+        <h1 className="title">Welcome to Next Integration Test (Deployment Summary) - H1 Content Changed!</h1>
         <p className="description">
           To get started, edit the <code>pages/index.js</code> or{' '}
           <code>pages/api/date.js</code> files, then save to reload.
+
+          <img style={{width:"100%"}} src="https://images.unsplash.com/photo-1511895426328-dc8714191300?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3450&q=80"/>
+          
         </p>
 
         <p className="row date">
