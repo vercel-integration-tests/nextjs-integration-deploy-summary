@@ -27,6 +27,7 @@ const Home = () => {
           <code>pages/api/date.js</code> files, then save to reload.
 
           <img style={{width:"100%"}} src="https://images.unsplash.com/photo-1543852786-1cf6624b9987?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1834&q=80"/>
+          <img style={{width:"100%"}} src="https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3427&q=80"/>
         </p>
 
         <p className="row date">
